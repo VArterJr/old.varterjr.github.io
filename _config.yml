@@ -30,8 +30,8 @@ twitter_username: VinnieDaArm
 github_username:  varterjr
 
 # Build settings
-#theme: minima
-theme: hacker
+theme: minima
+#theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
