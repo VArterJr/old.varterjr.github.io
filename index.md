@@ -5,8 +5,6 @@
 layout: home
 ---
 # You are welcome here!
-This is line one.
+Welcome to the new VinceArter.com!
 
-This is line two.
-
-This is line three.
+I hope you enjoy your stay!
