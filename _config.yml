@@ -34,6 +34,7 @@ theme: minima
 #theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-default-layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
