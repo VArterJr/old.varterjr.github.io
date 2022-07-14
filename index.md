@@ -1,10 +1,13 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: VinceArter.com
+permalink: /
 ---
 # You are welcome here!
-Welcome to the new VinceArter.com!
+This is line one.
 
-I hope you enjoy your stay!
+This is line two.
+
+This is line three.
