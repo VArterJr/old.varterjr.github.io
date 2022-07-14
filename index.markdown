@@ -6,3 +6,5 @@ layout: home
 ---
 # You are welcome here!
 Welcome to the new VinceArter.com!
+
+I hope you enjoy your stay!
