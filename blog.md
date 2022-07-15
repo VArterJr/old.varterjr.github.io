@@ -5,9 +5,3 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-# You are welcome here!
-This is line one.
-
-This is line two.
-
-This is line three.
