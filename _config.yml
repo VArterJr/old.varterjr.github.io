@@ -29,6 +29,13 @@ url: "https://varterjr.github.io" # the base hostname & protocol for your site, 
 twitter_username: VinnieDaArm
 github_username:  varterjr
 
+# Defaults
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
+      
 # Build settings
 theme: minima
 #theme: jekyll-theme-hacker
