@@ -1,18 +1,23 @@
 ---
-layout: page
-title: About
+layout: default
+title: About Vince Arter, Jr.
 permalink: /about/
 ---
+# {{page.title}}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+{:.imgContentLeft}
+![Banner](/assets/images/facesketch.jpg "Face sketch of Vince Arter, Jr.")
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've had this site running since around 1996 (in one form or the other). The site was originally called DaDen.com. Shortly after that, I succumbed to the trend to have my name as my domain. I sold DaDen.com a few years ago. I have many other domains, including arter.us, arterfamily.com, protoduction.com (and a few others) yet VinceArter.com has been my main, personal landing page for many years.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In the past, the site has been a sharing point for students who took technology and programming classes I taught at St. Louis County Community College. It has been a point for sharing ideas with friends, colleagues, and community developers. It has been a place to share pictures and music I've written. It has been a place to share code.
 
+Over the years it has been implemented using quite a few different approaches to its layout and code. Recently (mid-2022) I'm working on a more dynamic implementation using Jekyll and Markdown (I LOVE Markdown). I plan to convert my Medium blog to Markdown here in the summer of 2022.
 
-[jekyll-organization]: https://github.com/jekyll
+Other things you may see on the site: development ideas and projects I am working; thoughts on my personal study of music, computer science, philosophy, and other things.
+
+Thank you for stopping by, and please look for more content to show up here in the coming months!
+
+Vince Arter, Jr. - 27-July-2022 (Original post circa 2007)
+
+[vince@vincearter.com](mailto:vince@vincearter.com)
