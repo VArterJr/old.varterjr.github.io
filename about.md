@@ -3,7 +3,7 @@ layout: default
 title: About Vince Arter, Jr.
 permalink: /about/
 ---
-# {{page.title}}
+## {{page.title}}
 
 {:.imgContentLeft}
 ![Banner](/assets/images/facesketch.jpg "Face sketch of Vince Arter, Jr.")
