@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jekyll Information"
+author: Vince Arter, Jr.
 date: 2022-07-13 14:41:47 -0500
 categories: jekyll information framework
 tags: featured

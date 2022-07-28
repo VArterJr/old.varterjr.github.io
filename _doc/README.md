@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 0.4 (27-July-2022): Fixed post layout issues. Cleaned up a few other items.
 * Version 0.3 (27-July-2022): Tab images and styling now implemented. Fixed a few CSS issues converting from old to new site.
 * Version 0.2 (27-July-2022): Dynamic post page fixes in place and some other minor fixes.
 * Version 0.1 (27-July-2022): The first releasable version of the site using Jekyll and based on the current static implementation of vincearter.com.
