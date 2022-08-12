@@ -2,11 +2,11 @@
 layout: default
 title: About VinceArter.com
 permalink: /about/
-aside: about-a.md
 ---
 
 ## {{page.title}}
 
+<article id="article" markdown=1>
 {:.imgContentLeft}
 ![Sketch of my face.](/assets/images/facesketch.jpg "Sketch of my face.")
 
@@ -23,6 +23,7 @@ Thank you for stopping by, and please look for more content to show up here in t
 Vince Arter, Jr. - 27-July-2022 (Original post circa 2007)
 
 [vince@vincearter.com](mailto:vince@vincearter.com)
+</article>
 
 <aside id="aside" markdown=1>
 

@@ -5,5 +5,4 @@ layout: home
 permalink: /
 ---
 
-{:.imgBillboard}
-![Welcome Billboard](/assets/images/billboardwelcomemed.png "Welcome Billboard")
+![Welcome Billboard](/assets/images/billboardwelcomemed.png "Welcome Billboard"){:.imgBillboard}

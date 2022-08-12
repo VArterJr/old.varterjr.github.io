@@ -188,7 +188,7 @@ div#badgeboard {
     font-weight: normal;
 }
 
-/* ------- Post Navigation ------- */
+/* ------- Post (Blog) Navigation ------- */
 .postNav {
     /* Insert your custom styling here. Example:
 
@@ -267,6 +267,7 @@ td {
 #article h2 {
     color: #02450f;
     font-size: 1.3em;
+    font-weight: bold;
     margin: 0.5ex 0;
 }
 
@@ -314,7 +315,7 @@ ul {
     float: right;
     margin: 0;
     padding: 0 10px;
-    width: 25%;
+    width: 20%;
 }
 
 #aside p {
@@ -341,6 +342,7 @@ ul {
 #aside h2 {
     color: #000000;
     font-size: 1.1em;
+    font-weight: bold;
     margin: 0.5ex 0;
 }
 
@@ -372,7 +374,7 @@ ul {
     list-style-type: square;
 }
 
-/* ------- A Few Aside Specific Selectors for WGU Course -------*/
+/* ------- Aside Specific Selectors -------*/
 #aside #imgAsideMain {
     border: 1px solid #000000;
     display: block;
