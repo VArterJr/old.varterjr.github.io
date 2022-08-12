@@ -1,12 +1,14 @@
 ---
 layout: default
-title: About Vince Arter, Jr.
+title: About VinceArter.com
 permalink: /about/
+aside: about-a.md
 ---
+
 ## {{page.title}}
 
 {:.imgContentLeft}
-![Banner](/assets/images/facesketch.jpg "Face sketch of Vince Arter, Jr.")
+![Sketch of my face.](/assets/images/facesketch.jpg "Sketch of my face.")
 
 I've had this site running since around 1996 (in one form or the other). The site was originally called DaDen.com. Shortly after that, I succumbed to the trend to have my name as my domain. I sold DaDen.com a few years ago. I have many other domains, including arter.us, arterfamily.com, protoduction.com (and a few others) yet VinceArter.com has been my main, personal landing page for many years.
 
@@ -21,3 +23,14 @@ Thank you for stopping by, and please look for more content to show up here in t
 Vince Arter, Jr. - 27-July-2022 (Original post circa 2007)
 
 [vince@vincearter.com](mailto:vince@vincearter.com)
+
+<aside id="aside" markdown=1>
+
+## Related Items
+### Resume / CV
+[Click here to view Vince's CV / Resume](cv.md)
+
+### My Twitter Medium Blog
+If you are looking for my legacy blog [click here to go to my Twitter Medium page](https://vinniedaarm.medium.com/).
+
+</aside>
