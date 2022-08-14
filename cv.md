@@ -5,6 +5,9 @@ permalink: /cv/
 ---
 ## {{page.title}}
 
+### **ToC:** [Summary](#summary) | [Work Experience](#work-experience) | [Certifications]() | [Academic]()
+
+
 <article id="article" markdown=1>
 
 ## Summary
@@ -31,9 +34,9 @@ Lifetime Learner; Situational Leader; Excellent Presentation Skills; Analytical 
 [![Microsoft Logo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31?.tableImageIcon){:.tableImageIcon}](http://www.microsoft.com)
 
 ### Microsoft: Senior Customer Success Account Manager (CSAM / TAM)
-_{Need to update with latest information...}_
+_{Need to fill this section for Microsoft with latest details...}_
 
-Microsoft HLS Sr. CSAM (TAM) helping our strategic healthcare customers research and adopt Microsoft technologies.
+Microsoft HLS Sr. CSAM (previously called TAM) helping our strategic healthcare customers research, delivery, and adopt Microsoft cloud technologies and products.
 
 HLS Services Technical Training lead helping to ensure the technical readiness of our delivery and sales teams.
 
@@ -53,76 +56,93 @@ Developed team while working directly with customers to ensure solutions were of
 ### Monsanto: Senior Software Architect
 Responsible for design and architecture of enterprise search, enterprise content management, core web systems, and application development. Led improvements in approach to software development lifecycle and deployment processes for onshore and offshore development teams using .NET, ASP, Java, web technologies, SQL Server, and Oracle. Guided developers in agile development and testing practices that led to 30% reduction in initial release issues and increased productivity by over 50%.
 
-<br />
+<br/>
 
-### MORE TO BE MIGRATED...
+[![RGA AURA NEXT Logo](https://www.rgare.com/images/default-source/aura-next/aura-next-logo-top2.png){:.tableImageIcon}](https://www.rgare.com/aura-next)
 
+### RGA Technology Partners: Business Systems and Support Lead
+Managed teams in product management, business analysis, data analysis and management, and infrastructure for a commercial startup. Accountable for all facets of direct, customer facing sales and marketing support, implementation, and client support. Managed and directed projects for some of
+the largest global financial firms. Directed teams responsible for over $5M in annual revenue as
+well as handling employee, contractor, and financial resource management.
+
+<br/>
+
+[![STLCC Logo](https://stlcc.edu/_resources/images/STLCC-60th-Anniversary-Logo.svg){:.tableImageIcon}](http://www.stlcc.edu)
+
+### St. Louis Community College: Adjunct Professor
+Adjunct Professor teaching IS courses in Project Management, Information Systems, C, C++, VB, SQL, UNIX, and Hardware / Software Support. Consistently received superior feedback from students and department head.
+                
+<br/>
+
+[![Maritz Logo](https://www.maritzglobalevents.com/-/media/Maritz/Project/MGEV2/Logos/logo.ashx){:.tableImageIcon}](http://www.maritz.com)
+### Maritz: Senior Software Architect
+Designed software architecture and support of big data systems and processing for systems with a vast amount of time sensitive daily travel data. Directed development approaches and tasks for developers, providing project, and architectural guidance on high performance data loading and management.
+                
+<br/>
+
+# [NaviSys / Genelco (now Accenture) Logo](http://www.accenture.com/us-en/)
+
+### NaviSys: Product Manager and Senior Software Architect
+Managed programmers, designers, and project managers for e-commerce and intelligent underwriting projects. Led core team responsible for creating first industry standard XML EDI (ACORD XMLife) for the life insurance industry.
+
+<br/>
+
+# [XLConnect / Xerox Connect Logo](http://www.xerox.com)
+### XLConnect: Senior Consultant
+Consultant in software architecture and development in IBM, Microsoft, Sun, and emerging web technologies. Designed and developed first globally distributed imaging system at Brown Shoe for global use at all factories.
+
+<br/>
+
+[![General American (now Metlife) Logo](https://www.metlife.com/system/css/logo.gif){:.tableImageIcon}](http://www.metlife.com)
+
+### General American Life: Senior Software Developer
+
+Led design and development of emerging technology applications on the desktop and web for insurance agents and consumers. Principal designer and architect of software to handle federal requirements to mitigate Vanishing Premium legislation.
+
+<br/>
+
+# [TALX Corporation (now Equifax) Logo](https://workforce.equifax.com/)
+<h3>TALX: Senior Software Developer and Technical Lead</h3>
+<p>Guided design, development, and delivery of industry leading Interactive Voice Response (IVR) systems
+    and software. Technical lead providing guidance to developers and systems engineers on use of
+    emerging technologies.</p>
+
+[![HASCO International (now Mom365) Logo](http://www.mom365.com/~/media/Mom365/Images/Logos/logo-main.ashx){:.tableImageIcon}](http://www.mom365.com)
+### HASCO: Hardware Engineer and Developer
+Design and support of hospital imaging equipment. Developed industry leading software for emerging approaches to computer controlled imaging.
+
+<br/>
 [vince@vincearter.com](mailto:vince@vincearter.com)
+
 </article>
 
 <aside id="aside" markdown=1>
 
 ## Contact Vince
 For more information or a formal CV please contact me at [vince@vincearter.com](mailto:vince@vincearter.com).
-<table width="100%">
-    <thead>
-        <tr>
-            <th class="tableContentCenter">Certifications <br/> (Click to visit Credly)</th>
-        </tr>
-    </thead>
-    <tr>
-        <td class="tableContentCenter">
-            <p>Microsoft Senior Technical Leadership Program</p>
-            <p>Azure Fundamentals (AZ-900)</p>
-            <p>Azure Data Fundamentals (DP-900)</p>
-            <p>M365 Fundamentals (MS-900)</p>
-            <p>Dynamics Fundamentals (MB-900)</p>
-            <p>Microsoft Certified Professional</p>
-            <p>Microsoft Technical Associate Windows</p>
-        </td>
-    </tr>
-    <tr>
-        <td class="tableContentCenter">
-            <p>CompTIA A+</p>
-            <p>CompTIA Network+</p>
-            <p>CompTIA Project+</p>
-            <p>CompTIA Security+</p>
-        </td>
-    </tr>
-    <tr>
-        <td class="tableContentCenter">
-            <p>CIW Foundations Associate</p>
-            <p>CIW Web Design Specialist</p>
-            <p>CIW JavaScript Specialist</p>
-            <p>CIW Database Design Specialist</p>
-        </td>
-    </tr>
-</table>
 
-<table width="100%">
-    <thead>
-        <tr>
-            <th class="tableContentCenter" colspan="2">Academic</th>
-        </tr>
-    </thead>
-    <tr>
-        <td class="tableContentCenter">
-            <strong>AAS Electronic Engineering</strong>
-        </td>
-        <td class="tableContentCenter">
-            Vatterott College Class of 1998 <br/>
-            <em>(Top of class)</em>
-        </td>
-    </tr>
-    <tr>
-        <td class="tableContentCenter">
-            <strong>BS IT Management</strong>
-        </td>
-        <td class="tableContentCenter">
-            Western Governors Univeristy <br/>
-            <em>(Senior Year)</em>
-        </td>
-    </tr>
-</table>
+| Certifications |
+| :---: |
+| Microsoft Senior Technical Leadership Program |
+| Microsoft Azure Fund.<br/>(AZ-900) |
+| Microsoft Azure Data Fund. (DP-900) |
+| Microsoft M365 Fund. (MS-900) |
+| Microsoft Dynamics Fund. (MB-900) |
+| Microsoft Certified Professional |
+| Microsoft Technical Associate Windows |
+| CompTIA A+ |
+| CompTIA Network+ |
+| CompTIA Project+ |
+| CompTIA Security+ |
+| CIW Foundations Associate |
+| CIW Web Design Specialist |
+| CIW JavaScript Specialist |
+| CIW Database Design Specialist |
+
+
+| Academic |
+| :-: | :-: |
+| **AAS Electronic Engineering** | Vatterott College <br/> _(1998)_ |
+| **BS IT Management** | Western Governors Univeristy <br/> _(Senior Year)_ |
 
 </aside>
