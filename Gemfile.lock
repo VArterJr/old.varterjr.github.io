@@ -261,6 +261,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
+  jekyll (~> 3.9)
   jekyll-default-layout
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
@@ -270,4 +271,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.17
+   2.3.22
