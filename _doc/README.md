@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 0.6 (05-Oct-2022): Migrated Reviews and Tech from old site. Need to figure out Markdown image centering on `asides`.
 * Version 0.5.1 (14-Aug-2022): Finished migration CV content. One minor annoyance is that Markdown tables (and kramdown) do not support `colspan`.
 * Version 0.5 (12-Aug-2022): Added `<article>` and `<aside>` support in layout and Markdown files. Not clean, but the only way to accomplish this I've found using Jekyll. Fixed a lot of CSS issues that were not working well with Jekyll. Added more content to the CV.
 * Version 0.4 (27-July-2022): Fixed post layout issues. Cleaned up a few other items.

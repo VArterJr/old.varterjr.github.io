@@ -31,7 +31,7 @@ Lifetime Learner; Situational Leader; Excellent Presentation Skills; Analytical 
 
 ## Work Experience
 
-[![Microsoft Logo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31?.tableImageIcon){:.tableImageIcon}](http://www.microsoft.com)
+[![Microsoft Logo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31?.tableImageIcon){:.tableImageIcon}](http://www.microsoft.com){:target="blank"}
 
 ### Microsoft: Senior Customer Success Account Manager (CSAM / TAM)
 _{Need to fill this section for Microsoft with latest details...}_
@@ -40,7 +40,7 @@ Microsoft HLS Sr. CSAM (previously called TAM) helping our strategic healthcare 
 
 HLS Services Technical Training lead helping to ensure the technical readiness of our delivery and sales teams.
 
-[![Monsanto Logo](https://logodix.com/logo/233869.png){:.tableImageIcon}](http://www.monsanto.com)
+[![Monsanto Logo](https://logodix.com/logo/233869.png){:.tableImageIcon}](https://www.cropscience.bayer.us/){:target="blank"}
 ### Monsanto: Emerging Technologies & Solutions Architecture Lead
 Trusted partner, across lines of business with customers and executives, that provided user-centric   strategies that increased the value and adoption of enterprise wide productivity solutions, while remediating technical debt that had caused significant user confusion and lack of adoption in the past. Crafted and drove strategies for cloud based and mobile centric capabilities, directly enabling global teams to work more effectively when they needed, wherever they were located at the time, and on any device they had available, while maintaining a high level of data security and discoverability.
 
@@ -58,7 +58,7 @@ Responsible for design and architecture of enterprise search, enterprise content
 
 <br/>
 
-[![RGA AURA NEXT Logo](https://www.rgare.com/images/default-source/aura-next/aura-next-logo-top2.png){:.tableImageIcon}](https://www.rgare.com/aura-next)
+[![RGA AURA NEXT Logo](https://www.rgare.com/images/default-source/aura-next/aura-next-logo-top2.png){:.tableImageIcon}](https://www.rgare.com/aura-next){:target="blank"}
 
 ### RGA Technology Partners: Business Systems and Support Lead
 Managed teams in product management, business analysis, data analysis and management, and infrastructure for a commercial startup. Accountable for all facets of direct, customer facing sales and marketing support, implementation, and client support. Managed and directed projects for some of
@@ -67,33 +67,33 @@ well as handling employee, contractor, and financial resource management.
 
 <br/>
 
-[![STLCC Logo](https://stlcc.edu/_resources/images/STLCC-60th-Anniversary-Logo.svg){:.tableImageIcon}](http://www.stlcc.edu)
+[![STLCC Logo](https://stlcc.edu/_resources/images/STLCC-60th-Anniversary-Logo.svg){:.tableImageIcon}](http://www.stlcc.edu){:target="blank"}
 
 ### St. Louis Community College: Adjunct Professor
 Adjunct Professor teaching IS courses in Project Management, Information Systems, C, C++, VB, SQL, UNIX, and Hardware / Software Support. Consistently received superior feedback from students and department head.
                 
 <br/>
 
-[![Maritz Logo](https://www.maritzglobalevents.com/-/media/Maritz/Project/MGEV2/Logos/logo.ashx){:.tableImageIcon}](http://www.maritz.com)
+[![Maritz Logo](https://www.maritzglobalevents.com/-/media/Maritz/Project/MGEV2/Logos/logo.ashx){:.tableImageIcon}](http://www.maritz.com){:target="blank"}
 ### Maritz: Senior Software Architect
 Designed software architecture and support of big data systems and processing for systems with a vast amount of time sensitive daily travel data. Directed development approaches and tasks for developers, providing project, and architectural guidance on high performance data loading and management.
                 
 <br/>
 
-# [NaviSys / Genelco (now Accenture) Logo](http://www.accenture.com/us-en/)
+# [NaviSys / Genelco (now Accenture) Logo](http://www.accenture.com/us-en/){:target="blank"}
 
 ### NaviSys: Product Manager and Senior Software Architect
 Managed programmers, designers, and project managers for e-commerce and intelligent underwriting projects. Led core team responsible for creating first industry standard XML EDI (ACORD XMLife) for the life insurance industry.
 
 <br/>
 
-# [XLConnect / Xerox Connect Logo](http://www.xerox.com)
+# [XLConnect / Xerox Connect Logo](http://www.xerox.com){:target="blank"}
 ### XLConnect: Senior Consultant
 Consultant in software architecture and development in IBM, Microsoft, Sun, and emerging web technologies. Designed and developed first globally distributed imaging system at Brown Shoe for global use at all factories.
 
 <br/>
 
-[![General American (now Metlife) Logo](https://www.metlife.com/system/css/logo.gif){:.tableImageIcon}](http://www.metlife.com)
+[![General American (now Metlife) Logo](https://www.metlife.com/system/css/logo.gif){:.tableImageIcon}](http://www.metlife.com){:target="blank"}
 
 ### General American Life: Senior Software Developer
 
@@ -101,15 +101,15 @@ Led design and development of emerging technology applications on the desktop an
 
 <br/>
 
-# [TALX Corporation (now Equifax) Logo](https://workforce.equifax.com/)
+# [TALX Corporation (now Equifax)](https://workforce.equifax.com/){:target="blank"}
 <h3>TALX: Senior Software Developer and Technical Lead</h3>
 <p>Guided design, development, and delivery of industry leading Interactive Voice Response (IVR) systems
     and software. Technical lead providing guidance to developers and systems engineers on use of
     emerging technologies.</p>
 
-[![HASCO International (now Mom365) Logo](http://www.mom365.com/~/media/Mom365/Images/Logos/logo-main.ashx){:.tableImageIcon}](http://www.mom365.com)
-### HASCO: Hardware Engineer and Developer
-Design and support of hospital imaging equipment. Developed industry leading software for emerging approaches to computer controlled imaging.
+[![HASCO International (now Mom365) Logo](http://www.mom365.com/~/media/Mom365/Images/Logos/logo-main.ashx){:.tableImageIcon}](http://www.mom365.com){:target="blank"}
+### HASCO: Hardware and Software Engineer
+Design and support of hospital imaging equipment. Developed industry leading software for emerging approaches to computer controlled imaging. Designed automation logic and control system for automatic photo process routing.
 
 <br/>
 [vince@vincearter.com](mailto:vince@vincearter.com)

@@ -31,3 +31,9 @@ numFeaturedPostsToShow: 5
     </div>
   {% endfor %}
 </ul>
+
+## Vince's Legacy Medium Blog
+
+<script async src="https://static.medium.com/embed.js"></script><a class="m-profile"
+    href="https://medium.com/@VinnieDaArm" data-width="100%">Vince Arter, Jr.</a>
+    
