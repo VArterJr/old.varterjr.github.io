@@ -12,7 +12,6 @@ Links to places I do reviews for products, services, books, movies, etc.<br /><b
 
 [![Amazon Logo](/assets/images/navAmazonLogoFooter.gif){:.tableImageIcon}](https://www.amazon.com/gp/profile/amzn1.account.AHH2RDWN7CFAID5JBIPLTWANAHXQ?preview=true){:target="blank"}
 
-
 </article>
 
 <aside id="aside" markdown=1>
