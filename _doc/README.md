@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 1.1 (19-Nov-2022): Fixed an issue with Media page not having the correct permalink.
 * Version 1.0 (22-Oct-2022): Finished migrating Media from old site. Cleaned up a few things and it looks and tests ready for a 1.0 release using Jekyll and Liquid!!!
 * Version 0.6 (05-Oct-2022): Migrated Reviews and Tech from old site. Need to figure out Markdown image centering on `asides`.
 * Version 0.5.1 (14-Aug-2022): Finished migration CV content. One minor annoyance is that Markdown tables (and kramdown) do not support `colspan`.

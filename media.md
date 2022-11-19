@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Vince Arter, Sr. 70th Birthday Music
-permalink: /v170thmusic/
+title: Media by Vince Arter, Jr.
+permalink: /media/
 ---
 ## {{page.title}}
 

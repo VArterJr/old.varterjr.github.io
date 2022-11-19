@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Technology Page
+title: Technology by Vince Arter, Jr.
 permalink: /tech/
 ---
 ## {{page.title}}

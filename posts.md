@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Posts
+title: Posts and Blog by Vince Arter, Jr.
 permalink: /posts/
 numFeaturedPostsToShow: 5
 ---
